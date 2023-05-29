@@ -1,2 +1,2 @@
 # TypeScript_Lessons
- Exercices from a TypeScript course
+ Exercices from TypeScript courses
